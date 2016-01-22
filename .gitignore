@@ -1,0 +1,11 @@
+## Node Modules
+node_modules
+
+## IDE's 
+.vscode
+
+## Typings 
+typings
+
+## Stop any generated data files being included 
+**/*.xlsx

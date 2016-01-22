@@ -1,0 +1,17 @@
+{
+  "name": "testdatagenerator",
+  "version": "1.0.0",
+  "description": "Test data generation shell built on FakerJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^3.0.1",
+    "json2xls": "^0.1.1",
+    "moment": "^2.11.1",
+    "randexp": "^0.4.2"
+  }
+}
